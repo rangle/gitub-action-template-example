@@ -1,0 +1,11 @@
+{
+    "name": "Angular CI Workflow",
+    "description": "CI workflow template for Angular projects.",
+    "iconName": "example-icon",
+    "categories": [
+        "TypeScript"
+    ],
+    "filePatterns": [
+        "package.json$"
+    ]
+}

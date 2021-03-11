@@ -1,0 +1,11 @@
+{
+    "name": "React CI Workflow",
+    "description": "CI workflow template for React projects.",
+    "iconName": "example-icon",
+    "categories": [
+        "Javascript"
+    ],
+    "filePatterns": [
+        "package.json$"
+    ]
+}
